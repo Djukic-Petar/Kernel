@@ -1,0 +1,1593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ivt",
+				"ivtEntryList"
+			],
+			[
+				"we",
+				"waitToComplete"
+			],
+			[
+				"in",
+				"intUnlock"
+			],
+			[
+				"int",
+				"intLock"
+			],
+			[
+				"iv",
+				"ivtNo"
+			],
+			[
+				"IVTEn",
+				"IVTEntry"
+			],
+			[
+				"IVTE",
+				"IVTEntry"
+			],
+			[
+				"ivtE",
+				"ivtEntryList"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"ru",
+				"runningSS"
+			],
+			[
+				"PCBL",
+				"PCBList"
+			],
+			[
+				"FP_",
+				"FP_SEG"
+			],
+			[
+				"runni",
+				"running"
+			],
+			[
+				"P",
+				"PCBLists"
+			],
+			[
+				"runn",
+				"runningPCBTime"
+			],
+			[
+				"waitToM",
+				"waitToCmplSem"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"run",
+				"runningPCBTime"
+			],
+			[
+				"loc",
+				"lockFlag"
+			],
+			[
+				"runnin",
+				"runningPCBTime"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"runnn",
+				"runningSS"
+			],
+			[
+				"sta",
+				"stackIndexSize"
+			],
+			[
+				"stac",
+				"stackSize"
+			],
+			[
+				"slee",
+				"sleepingTime"
+			],
+			[
+				"PC",
+				"PCBList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Projekat/h/EVENT.H",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/IdleThr.h",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/INITTHR.H",
+			"settings":
+			{
+				"buffer_size": 190,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/IVTEntry.h",
+			"settings":
+			{
+				"buffer_size": 776,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/KERNELEV.H",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/KERNELS.H",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/Lock.h",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/PCB.H",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/PCBLISTS.H",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/SCHEDULE.H",
+			"settings":
+			{
+				"buffer_size": 497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Projekat/h/Semaphor.h",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/SYSTEM.H",
+			"settings":
+			{
+				"buffer_size": 651,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/h/thread.h",
+			"settings":
+			{
+				"buffer_size": 631,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/EVENT.CPP",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/IDLETHR.CPP",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/INITTHR.CPP",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/IVTENTRY.CPP",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/KERNELEV.CPP",
+			"settings":
+			{
+				"buffer_size": 839,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/KernelS.cpp",
+			"settings":
+			{
+				"buffer_size": 753,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/PCB.CPP",
+			"settings":
+			{
+				"buffer_size": 2365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/PCBLISTS.CPP",
+			"settings":
+			{
+				"buffer_size": 3141,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/Semaphor.cpp",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/SYSTEM.CPP",
+			"settings":
+			{
+				"buffer_size": 3817,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Projekat/src/THREAD.CPP",
+			"settings":
+			{
+				"buffer_size": 574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/h/bounded.h",
+			"settings":
+			{
+				"buffer_size": 775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/h/intLock.h",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/h/keyevent.h",
+			"settings":
+			{
+				"buffer_size": 612,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/h/user.h",
+			"settings":
+			{
+				"buffer_size": 793,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/src/bounded.cpp",
+			"settings":
+			{
+				"buffer_size": 948,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/src/intLock.cpp",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/src/keyevent.cpp",
+			"settings":
+			{
+				"buffer_size": 2163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/src/USER.CPP",
+			"settings":
+			{
+				"buffer_size": 3492,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/osz1/mojtst/h/BROJEVI.H",
+		"/C/osz1/mojtst/h/SLOVA.H",
+		"/C/osz1/mojtst/src/brojevi.cpp",
+		"/C/osz1/mojtst/src/SLOVA.CPP",
+		"/C/osz1/mojtst/src/MYMAIN.CPP",
+		"/C/osz1/test/src/USER.CPP",
+		"/C/osz1/test/src/keyevent.cpp",
+		"/C/osz1/test/src/intLock.cpp",
+		"/C/osz1/test/src/bounded.cpp",
+		"/C/osz1/test/h/user.h",
+		"/C/osz1/test/h/keyevent.h",
+		"/C/osz1/test/h/intLock.h",
+		"/C/osz1/test/h/bounded.h",
+		"/C/osz1/Projekat/h/Lock.h",
+		"/C/osz1/Projekat/h/SYSTEM.H",
+		"/C/osz1/Projekat/src/KERNELEV.BAK",
+		"/C/os/Projekat/src/PCB.CPP",
+		"/C/os/test/src/USER.CPP",
+		"/C/os/test/src/keyevent.cpp",
+		"/C/os/test/src/intLock.cpp",
+		"/C/os/test/src/bounded.cpp",
+		"/C/os/Projekat/h/PCB.H",
+		"/C/os/test/h/user.h",
+		"/C/os/test/h/keyevent.h",
+		"/C/os/test/h/intLock.h",
+		"/C/os/test/h/bounded.h",
+		"/C/os/Projekat/src/THREAD.CPP",
+		"/C/os/Projekat/src/SYSTEM.CPP",
+		"/C/os/Projekat/src/Semaphor.cpp",
+		"/C/os/Projekat/src/PCBLISTS.CPP",
+		"/C/os/Projekat/src/KernelS.cpp",
+		"/C/os/Projekat/src/KernelEv.cpp",
+		"/C/os/Projekat/src/IVTENTRY.CPP",
+		"/C/os/Projekat/src/EVENT.CPP",
+		"/C/os/Projekat/h/thread.h",
+		"/C/os/Projekat/h/SYSTEM.H",
+		"/C/os/Projekat/h/Semaphor.h",
+		"/C/os/Projekat/h/SCHEDULE.H",
+		"/C/os/Projekat/h/PCBLISTS.H",
+		"/C/os/Projekat/h/Lock.h",
+		"/C/os/Projekat/h/KERNELS.H",
+		"/C/os/Projekat/h/KERNELEV.H",
+		"/C/os/Projekat/h/IVTEntry.h",
+		"/C/os/Projekat/h/EVENT.H",
+		"/C/Users/OS1/AppData/Local/Temp/Temp1_javni_test_2015.zip/keyevent.cpp",
+		"/C/os/Projekat/src/INITTHR.CPP",
+		"/C/os/Projekat/src/IDLETHR.CPP",
+		"/C/os/Projekat/h/IdleThr.h",
+		"/C/os/Projekat/h/INITTHR.H",
+		"/C/os/mojtst/src/MYMAIN.CPP",
+		"/C/os/mojtst/src/SLOVA.CPP",
+		"/C/os/mojtst/src/brojevi.cpp",
+		"/C/os/mojtst/h/SLOVA.H",
+		"/C/os/mojtst/h/BROJEVI.H",
+		"/C/Users/OS1/Desktop/NihilOS/h/SYSTEM.H",
+		"/C/Users/OS1/AppData/Local/Temp/Temp1_lab.zip/Z3N.CPP",
+		"/C/Users/OS1/Desktop/NihilOS/src/System.cpp",
+		"/C/Users/OS1/Desktop/NihilOS/src/Thread.cpp",
+		"/C/Users/OS1/AppData/Local/Temp/Temp1_lab.zip/MAIN.CPP",
+		"/C/Users/OS1/AppData/Local/Temp/Temp1_lab.zip/ZAGL2.H",
+		"/C/Users/OS1/AppData/Local/Temp/Temp1_lab.zip/ZAGL1.H",
+		"/C/os/test/USER.CPP",
+		"/C/os/test/keyevent.cpp",
+		"/C/os/test/intLock.cpp",
+		"/C/os/test/bounded.cpp",
+		"/C/os/out/cmd.bat",
+		"/C/os/Projekat/src/USER.CPP",
+		"/C/os/Projekat/src/keyevent.cpp",
+		"/C/os/Projekat/src/intLock.cpp",
+		"/C/os/Projekat/src/bounded.cpp",
+		"/C/os/Projekat/h/user.h",
+		"/C/os/Projekat/h/keyevent.h",
+		"/C/os/Projekat/h/intLock.h",
+		"/C/os/Projekat/h/BOUNDED.H",
+		"/C/os/out/moj.bat",
+		"/C/os/Projekat/h/KernelEv.h",
+		"/C/bc31/BIN/TURBOC.CFG",
+		"/C/os/Projekat/src/brojevi.cpp",
+		"/C/os/Projekat/h/SLOVA.H",
+		"/C/os/Projekat/h/BROJEVI.H",
+		"/C/os/Projekat/src/MYMAIN.CPP",
+		"/C/os/test/user.h",
+		"/C/bc31/BIN/TLINK.CFG",
+		"/C/bc31/INCLUDE/STDIO.H",
+		"/C/os/Projekat/src/SLOVA.CPP",
+		"/C/Users/OS1/Desktop/Projekat/h/KernelSem.h",
+		"/C/Users/OS1/Desktop/Projekat/src/KernelSem.cpp",
+		"/C/Users/OS1/Desktop/Projekat/src/PCBLists.cpp",
+		"/C/Users/OS1/Desktop/Projekat/src/Semaphore.cpp",
+		"/C/Users/OS1/Desktop/Projekat/src/Thread.cpp",
+		"/C/Users/OS1/Desktop/Projekat/src/PCB.cpp",
+		"/C/Users/OS1/Desktop/Projekat/h/Semaphore.h",
+		"/C/Users/OS1/Desktop/Projekat/h/Lock.h",
+		"/C/Users/OS1/Desktop/Projekat/h/PCBLists.h",
+		"/C/Users/OS1/Desktop/Projekat/h/PCB.h",
+		"/C/Users/OS1/Desktop/Projekat/h/thread.h",
+		"/C/os/Scheduler/SCHEDULE.H",
+		"/C/Users/OS1/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\os\\Projekat"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"){}",
+			"\\n",
+			"())",
+			"PCBList",
+			"cprintf",
+			"puts",
+			"runningPCBTime",
+			"%s",
+			"%d",
+			"printf",
+			"unlockSys",
+			"it"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\r\\n",
+			"cputs",
+			"cprintf",
+			"puts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Projekat/h/EVENT.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Projekat/h/IdleThr.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Projekat/h/INITTHR.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Projekat/h/IVTEntry.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Projekat/h/KERNELEV.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Projekat/h/KERNELS.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Projekat/h/Lock.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Projekat/h/PCB.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 61.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Projekat/h/PCBLISTS.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Projekat/h/SCHEDULE.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Projekat/h/Semaphor.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Projekat/h/SYSTEM.H",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Projekat/h/thread.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 13,
+					"file": "Projekat/src/EVENT.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Projekat/src/IDLETHR.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Projekat/src/INITTHR.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Projekat/src/IVTENTRY.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Projekat/src/KERNELEV.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Projekat/src/KernelS.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Projekat/src/PCB.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1643,
+								1643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Projekat/src/PCBLISTS.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2017.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Projekat/src/Semaphor.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Projekat/src/SYSTEM.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Projekat/src/THREAD.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 24,
+					"file": "test/h/bounded.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "test/h/intLock.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "test/h/keyevent.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "test/h/user.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 28,
+					"file": "test/src/bounded.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "test/src/intLock.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "test/src/keyevent.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "test/src/USER.CPP",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.605738752556,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "osz1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

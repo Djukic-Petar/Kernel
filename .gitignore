@@ -1,0 +1,12 @@
+##Files used by Borland-C IDE and 8086 emulator
+*.INI
+*.EXE
+*.DSK
+*.PRJ
+*.TAH
+*.TD
+*.SYS
+*.DLL
+*.COM
+*.TDH
+*.386
